@@ -17,6 +17,11 @@ class ViewController: UIViewController {
         //...Local Commits
     }
 
+    func sampleFunction() {
+        print("Created SampleFunction...")
+    }
+    
+    
 
 }
 
